@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
 ```
-## **Step 4: Verify Installed Packages** 
+## **Step 4: Verify Installed Packages (run "Setup Python environment.ipynb")** 
 ![alt text](docs/test.png)
