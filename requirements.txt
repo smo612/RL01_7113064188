@@ -1,0 +1,11 @@
+pyyaml
+numpy
+gymnasium>=0.26.0
+moviepy
+pygame
+scikit-learn
+matplotlib
+
+# pip install -r requirements.txt
+
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
